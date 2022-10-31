@@ -1,3 +1,13 @@
+## 0.18.0
+- Updating Facebook SDK  dependency to follow all `15.x` versions.
+
+## 0.17.1
+- Implementing [Aggregated Event Measurement for Facebook App Events](https://developers.facebook.com/docs/app-events/guides/aggregated-event-measurement/) in [PR #236](https://github.com/oddbit/flutter_facebook_app_events/pull/236)
+
+## 0.17.0
+- Updating Facebook SDK  dependency to follow all `14.x` versions.
+- Updating documentation to add client token in [project README](https://github.com/oddbit/flutter_facebook_app_events/blob/master/README.md#setting-things-up)
+
 ## 0.16.0
 See [PR 224](https://github.com/oddbit/flutter_facebook_app_events/pull/224)
 
